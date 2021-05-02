@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/contactmanager_context/static/css/main.52e33526.chunk.css",
-    "main.js": "/contactmanager_context/static/js/main.64610a28.chunk.js",
-    "main.js.map": "/contactmanager_context/static/js/main.64610a28.chunk.js.map",
-    "runtime-main.js": "/contactmanager_context/static/js/runtime-main.1175f840.js",
-    "runtime-main.js.map": "/contactmanager_context/static/js/runtime-main.1175f840.js.map",
-    "static/js/2.0e6df686.chunk.js": "/contactmanager_context/static/js/2.0e6df686.chunk.js",
-    "static/js/2.0e6df686.chunk.js.map": "/contactmanager_context/static/js/2.0e6df686.chunk.js.map",
-    "static/js/3.ae63e18d.chunk.js": "/contactmanager_context/static/js/3.ae63e18d.chunk.js",
-    "static/js/3.ae63e18d.chunk.js.map": "/contactmanager_context/static/js/3.ae63e18d.chunk.js.map",
-    "index.html": "/contactmanager_context/index.html",
-    "static/css/main.52e33526.chunk.css.map": "/contactmanager_context/static/css/main.52e33526.chunk.css.map",
-    "static/js/2.0e6df686.chunk.js.LICENSE.txt": "/contactmanager_context/static/js/2.0e6df686.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/contactmanager_context/static/media/transportation.91f09a7f.svg"
+    "main.css": "/trainalyzer/static/css/main.aaa7ce02.chunk.css",
+    "main.js": "/trainalyzer/static/js/main.64610a28.chunk.js",
+    "main.js.map": "/trainalyzer/static/js/main.64610a28.chunk.js.map",
+    "runtime-main.js": "/trainalyzer/static/js/runtime-main.e707fd02.js",
+    "runtime-main.js.map": "/trainalyzer/static/js/runtime-main.e707fd02.js.map",
+    "static/js/2.0e6df686.chunk.js": "/trainalyzer/static/js/2.0e6df686.chunk.js",
+    "static/js/2.0e6df686.chunk.js.map": "/trainalyzer/static/js/2.0e6df686.chunk.js.map",
+    "static/js/3.ae63e18d.chunk.js": "/trainalyzer/static/js/3.ae63e18d.chunk.js",
+    "static/js/3.ae63e18d.chunk.js.map": "/trainalyzer/static/js/3.ae63e18d.chunk.js.map",
+    "index.html": "/trainalyzer/index.html",
+    "static/css/main.aaa7ce02.chunk.css.map": "/trainalyzer/static/css/main.aaa7ce02.chunk.css.map",
+    "static/js/2.0e6df686.chunk.js.LICENSE.txt": "/trainalyzer/static/js/2.0e6df686.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/trainalyzer/static/media/transportation.91f09a7f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1175f840.js",
+    "static/js/runtime-main.e707fd02.js",
     "static/js/2.0e6df686.chunk.js",
-    "static/css/main.52e33526.chunk.css",
+    "static/css/main.aaa7ce02.chunk.css",
     "static/js/main.64610a28.chunk.js"
   ]
 }
