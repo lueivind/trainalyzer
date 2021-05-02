@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/trainalyzer/static/css/main.1240e0d7.chunk.css",
-    "main.js": "/trainalyzer/static/js/main.64610a28.chunk.js",
-    "main.js.map": "/trainalyzer/static/js/main.64610a28.chunk.js.map",
+    "main.css": "/trainalyzer/static/css/main.376bf655.chunk.css",
+    "main.js": "/trainalyzer/static/js/main.18820be2.chunk.js",
+    "main.js.map": "/trainalyzer/static/js/main.18820be2.chunk.js.map",
     "runtime-main.js": "/trainalyzer/static/js/runtime-main.e707fd02.js",
     "runtime-main.js.map": "/trainalyzer/static/js/runtime-main.e707fd02.js.map",
     "static/js/2.0e6df686.chunk.js": "/trainalyzer/static/js/2.0e6df686.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.ae63e18d.chunk.js": "/trainalyzer/static/js/3.ae63e18d.chunk.js",
     "static/js/3.ae63e18d.chunk.js.map": "/trainalyzer/static/js/3.ae63e18d.chunk.js.map",
     "index.html": "/trainalyzer/index.html",
-    "static/css/main.1240e0d7.chunk.css.map": "/trainalyzer/static/css/main.1240e0d7.chunk.css.map",
+    "static/css/main.376bf655.chunk.css.map": "/trainalyzer/static/css/main.376bf655.chunk.css.map",
     "static/js/2.0e6df686.chunk.js.LICENSE.txt": "/trainalyzer/static/js/2.0e6df686.chunk.js.LICENSE.txt",
     "static/media/index.css": "/trainalyzer/static/media/transportation.91f09a7f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e707fd02.js",
     "static/js/2.0e6df686.chunk.js",
-    "static/css/main.1240e0d7.chunk.css",
-    "static/js/main.64610a28.chunk.js"
+    "static/css/main.376bf655.chunk.css",
+    "static/js/main.18820be2.chunk.js"
   ]
 }
