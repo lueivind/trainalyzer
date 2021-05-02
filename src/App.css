@@ -41,6 +41,7 @@ nav{
 
 .station{
   background-color: #020202;
+  min-width: 160px;
   width: 200px;
   text-align: center;
 }
@@ -73,10 +74,15 @@ nav{
   text-align: right;
 }
 
-.flex-container{
-  display: flex;
-  justify-content: center;
+
+@media(min-width:200px){
+  .flex-container{
+    display: flex;
+    justify-content: center;
+
+  }
 }
+
 
 .box{
   margin: 5px;
